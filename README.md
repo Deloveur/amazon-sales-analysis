@@ -1,7 +1,7 @@
 # Amazon Sales Analysis
 
 ## Overview
-This project focuses on analyzing Amazon product sales, ratings, discounts, and customer reviews using Python, PostgreSQL, and Power BI.
+This project focuses on analyzing Amazon product sales, ratings, discounts, and customer reviews using Python, SQL (SQLiteOnline), and Power BI.
 
 The goal was to clean raw data, perform exploratory data analysis, write SQL queries, and build an interactive dashboard for business insights.
 
@@ -11,7 +11,7 @@ The goal was to clean raw data, perform exploratory data analysis, write SQL que
 - Python
 - Pandas
 - NumPy
-- PostgreSQL
+- SQL (SQLiteOnline)
 - Power BI
 - Jupyter Notebook
 
@@ -19,7 +19,7 @@ The goal was to clean raw data, perform exploratory data analysis, write SQL que
 
 ## Project Workflow
 1. Data cleaning and preprocessing in Jupyter Notebook
-2. SQL analysis using PostgreSQL
+2. SQL analysis using SQL (SQLiteOnline)
 3. Dashboard creation in Power BI
 4. Business insights and visualization
 
