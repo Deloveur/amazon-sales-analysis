@@ -42,7 +42,7 @@ The goal was to clean raw data, perform exploratory data analysis, write SQL que
 ---
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashboard Preview](amazon_dashboard.jpg)
 
 ---
 
